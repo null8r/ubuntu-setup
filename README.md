@@ -38,3 +38,4 @@ git clone https://github.com/null8r/ubuntu-setup.git && cd ubuntu-setup && sh se
 - docker & docker-compose(1.29.2)
 - code-server
 - add ~/.vimrc
+- scrcpy
