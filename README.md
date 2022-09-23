@@ -39,3 +39,4 @@ git clone https://github.com/null8r/ubuntu-setup.git && cd ubuntu-setup && sh se
 - code-server
 - add ~/.vimrc
 - scrcpy
+- obs
