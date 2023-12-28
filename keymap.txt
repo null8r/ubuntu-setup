@@ -83,7 +83,6 @@ Conversion	Ctrl x	ConvertNext
 Conversion	Ctrl z	Cancel
 Conversion	Delete	Cancel
 Conversion	Down	ConvertNext
-Conversion	Eisu	ToggleAlphanumericMode
 Conversion	End	SegmentFocusLast
 Conversion	Enter	Commit
 Conversion	ESC	Cancel
@@ -123,7 +122,6 @@ DirectInput	Katakana	IMEOn
 Precomposition	Backspace	Revert
 Precomposition	Ctrl Backspace	Undo
 Precomposition	Ctrl Shift Space	InsertFullSpace
-Precomposition	Eisu	ToggleAlphanumericMode
 Precomposition	Hankaku/Zenkaku	IMEOff
 Precomposition	Hiragana	InputModeHiragana
 Precomposition	Shift Muhenkan	ToggleAlphanumericMode
