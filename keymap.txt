@@ -28,7 +28,6 @@ Composition	Ctrl x	MoveCursorToEnd
 Composition	Ctrl z	Cancel
 Composition	Delete	Delete
 Composition	Down	MoveCursorToEnd
-Composition	Eisu	ToggleAlphanumericMode
 Composition	End	MoveCursorToEnd
 Composition	Enter	Commit
 Composition	ESC	Cancel
@@ -114,7 +113,6 @@ Conversion	Shift Up	ConvertPrevPage
 Conversion	Space	ConvertNext
 Conversion	Tab	PredictAndConvert
 Conversion	Up	ConvertPrev
-DirectInput	Eisu	IMEOn
 DirectInput	F13	IMEOn
 DirectInput	Hankaku/Zenkaku	IMEOn
 DirectInput	Hiragana	IMEOn
